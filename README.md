@@ -25,3 +25,7 @@ RStudio
 * [Angular 7 New Features [Video]](https://www.packtpub.com/web-development/angular-7-new-features-video?utm_source=github&utm_medium=repository&utm_campaign=9781789619683)
 
 * [Microservices Development on Azure with Java [Video]](https://www.packtpub.com/virtualization-and-cloud/microservices-development-azure-java-video?utm_source=github&utm_medium=repository&utm_campaign=9781789808858)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787283770">https://packt.link/free-ebook/9781787283770 </a> </p>
